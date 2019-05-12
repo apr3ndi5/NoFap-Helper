@@ -64,7 +64,7 @@ BOOL CALLBACK WindowsCallback(HWND hWnd, LPARAM lParam)
 #pragma endregion
 
 //default keys
-std::vector<std::wstring> pBadWindowTitles = {L"xxx", L"porn", L"xvideo"};
+std::vector<std::wstring> pBadWindowTitles = {L"xxx", L"porn", L"xvideo", "pornhub", "sexy", "boobs", "pussy", "porno"};
 
 int start() 
 {
